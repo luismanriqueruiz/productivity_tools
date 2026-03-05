@@ -10,6 +10,10 @@ https://logseq.com/
 
 ![Image 2](./images/image2.png)
 
+# Templates
+
+Find them [here](./pages/)
+
 # Plugins
 
 - Heading level shortcuts
