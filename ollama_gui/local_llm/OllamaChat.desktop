@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Ollama Chat
+Comment=Local AI chat powered by Ollama
+Icon=utilities-terminal
+Exec=bash -c "bash $HOME/Documents/research/local_llm/launch.sh"
+Terminal=false
+Categories=Utility;Application;
+StartupNotify=true
