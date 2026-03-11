@@ -33,9 +33,18 @@ Logout and login in Ubuntu.
 
 To launch the application, search for it in the Ubuntu applications menu. Once all prerequisites are met, simply double-click the application icon to initiate the local AI in your browser.
 
-# Usage
+The application will look like:
+
+![Introducing image](./images/figure_01.png)
+
+Creating a new session
+![Introducing image](./images/figure_02.png)
+
+At the bottom left of the app you can find the `Model` menu where you can choose the local LLM you want to use for your chat session.
 
 # Testing
+
+Just in case you want to test it out, you can use the following commands:
 
 ## environment
 
@@ -48,4 +57,6 @@ conda activate ollamaapp
 python app.py
 ```
 
+# Remarks
 
+Improvements are always welcome, feel free to share your PR. Happy coding!
