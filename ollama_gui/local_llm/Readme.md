@@ -42,6 +42,8 @@ Creating a new session
 
 At the bottom left of the app you can find the `Model` menu where you can choose the local LLM you want to use for your chat session.
 
+Notice that in the chat area you can bring a picture if you want and interact with it by choosing an appropriate LLM model.
+
 # Testing
 
 Just in case you want to test it out, you can use the following commands:
